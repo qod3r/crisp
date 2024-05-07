@@ -6,6 +6,8 @@ cd crisp
 pip install -r requirements.txt
 ```
 
+[Основной блокнот](https://github.com/qod3r/crisp/blob/master/src/rdt-helper.ipynb)
+
 ## Содержание
 1. [Бизнес-понимание](#бизнес-понимание)
 2. [Понимание данных](#понимание-данных)
